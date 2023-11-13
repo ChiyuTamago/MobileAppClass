@@ -1,0 +1,16 @@
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\bin\Debug\netstandard2.0\Test2113110015.deps.json
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\bin\Debug\netstandard2.0\Test2113110015.dll
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\bin\Debug\netstandard2.0\ref\Test2113110015.dll
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\bin\Debug\netstandard2.0\Test2113110015.pdb
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Test2113110015.csproj.AssemblyReference.cache
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Test2113110015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Test2113110015.AssemblyInfoInputs.cache
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Test2113110015.AssemblyInfo.cs
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Test2113110015.csproj.CoreCompileInputs.cache
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Test2113110015.dll
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\refint\Test2113110015.dll
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Test2113110015.pdb
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Page1.xaml.g.cs

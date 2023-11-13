@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Test2113110015.MainPage">
+
+    
+    <StackLayout BackgroundColor="#5CAAE9">
+        <Label Padding="50" Text="คนไทยมีกิน มีใช้ มีศักดิ์ศรี ไปพร้อม ๆ กันค่ะ มีกิน มีใช้ มีศักดิ์ศรี ไปพร้อม ๆ กัน มีกิน มีใช้ มีศักดิ์ศรี ไปพร้อม ๆ กัน มีกิน มีใช้ มีศักดิ์ศรี ไปพร้อม ๆ กัน มีกิน มีใช้ มีศักดิ์ศรี ไปพร้อม ๆ กัน" TextColor="Wheat" LineBreakMode="TailTruncation"/>
+        <Entry TextColor="White" Placeholder="mumei" PlaceholderColor="#73FFFFFF" Keyboard="Chat"/>
+        <StackLayout BackgroundColor="IndianRed" Padding="20" Margin="50" Orientation="Horizontal">
+            <Button x:Name="okButton" Clicked="okButton_Clicked" Padding="20" Text="On Press" BackgroundColor="Aqua" />
+            <Button Padding="20" Text="Mum" BackgroundColor="Aqua" />
+            <Button Padding="20" Text="o" BackgroundColor="Transparent" />
+        </StackLayout>
+        
+        <StackLayout BackgroundColor="IndianRed" Padding="20" Margin="50" Orientation="Horizontal">
+            <Button Padding="20" Text="Press" BackgroundColor="Aqua" />
+            <Button Padding="20" Text="Mumei" BackgroundColor="Aqua" />
+            <Button Padding="20" Text="Kay" BackgroundColor="Transparent" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

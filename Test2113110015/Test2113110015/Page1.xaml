@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Test2113110015.Page1">
+    <ContentPage.Content>
+        
+        <StackLayout BackgroundColor="#DBDBDB">
+            <Label Padding="40, 30, 40, 50" FontSize="25" TextColor="#434343" Text="INTRODUCTION" HorizontalTextAlignment="Center" TextDecorations="Underline"/>
+            <Label Padding="20" FontSize="17" TextColor="#434343" Text="Name: Kitchana Boonmalert 2113110015"/>
+            <Label Padding="20" FontSize="17" TextColor="#434343" Text="Major: IT"/>
+            <Label Padding="20" FontSize="17" TextColor="#434343" Text="Birthday: November, 8"/>
+            <Label Padding="20" FontSize="17" TextColor="#434343" Text="Gender: male"/>
+            <Label Padding="20" FontSize="17" TextColor="#434343" Text="College: Thai-Nichi Institute of Technology"/>
+            <Label Padding="0,50,0,0"/>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Button Padding="20" Text="E-mail" BackgroundColor="#E4D344" />
+                <Label Padding="40,0,0,0"/>
+                <Button Padding="20" Text="Discord" BackgroundColor="#447EE4" />
+            </StackLayout>
+            <Entry TextColor="#101010" Placeholder="Comment" PlaceholderColor="#5D101010" Keyboard="Chat"/>
+
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>
