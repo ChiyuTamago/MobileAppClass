@@ -5,7 +5,7 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
     <ContentPage.Content>
         <StackLayout BackgroundColor="pink">
-            <StackLayout VerticalOptions="Center" BackgroundColor="#8FB4C1">
+            <StackLayout VerticalOptions="CenterAndExpand" Margin="20,0,20,0" Padding="20,0,20,0" BackgroundColor="#96C3A3">
                 <Image Source="bookcolor" />
                 <Label
                     x:Name="loginNameResult"
@@ -16,12 +16,15 @@
                 <Entry
                     x:Name="firstName"
                     Placeholder="Firstname"
-                    PlaceholderColor="Gray" />
-                <Label Padding="10" />
+                    PlaceholderColor="Gray"
+                    BackgroundColor="White"
+                    />
+                <Label Padding="2" />
                 <Entry
                     x:Name="lastName"
                     Placeholder="Lastname"
-                    PlaceholderColor="Gray" />
+                    PlaceholderColor="Gray"
+                    BackgroundColor="White"/>
                 <Label Padding="15" />
                 <Button
                     x:Name="sendButton"
