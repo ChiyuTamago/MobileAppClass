@@ -636,3 +636,5 @@ C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015.And
 C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015.Android\obj\Debug\130\res\drawable\bookcolor.png
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015.Android\obj\Debug\130\res\drawable\booktrans.png

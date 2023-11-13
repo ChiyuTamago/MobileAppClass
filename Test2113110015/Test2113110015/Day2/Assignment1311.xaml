@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Test2113110015.Day2.Assignment1311"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="pink">
+            <StackLayout VerticalOptions="Center" BackgroundColor="#8FB4C1">
+                <Image Source="bookcolor" />
+                <Label
+                    x:Name="loginNameResult"
+                    FontSize="25"
+                    HorizontalTextAlignment="Center"
+                    Text="Login" />
+                <Label Padding="15" />
+                <Entry
+                    x:Name="firstName"
+                    Placeholder="Firstname"
+                    PlaceholderColor="Gray" />
+                <Label Padding="10" />
+                <Entry
+                    x:Name="lastName"
+                    Placeholder="Lastname"
+                    PlaceholderColor="Gray" />
+                <Label Padding="15" />
+                <Button
+                    x:Name="sendButton"
+                    Margin="40"
+                    Text="Submit" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

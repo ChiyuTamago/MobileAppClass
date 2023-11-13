@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Test2113110015.Day2Homepage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="AliceBlue">
+            <StackLayout Margin="30">
+                <Label
+                    FontSize="30"
+                    HorizontalOptions="Center"
+                    HorizontalTextAlignment="Center"
+                    Text="What do you call cow with 2 legs" />
+                <Label Padding="40" />
+                <Entry Placeholder="Answer" TextColor="Gray" />
+                <Label Padding="10" />
+                <Button
+                    BackgroundColor="#84D96D"
+                    HorizontalOptions="End"
+                    Text="Submit" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

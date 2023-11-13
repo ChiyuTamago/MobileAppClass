@@ -1,4 +1,5 @@
 ﻿using System;
+using Test2113110015.Day2;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,7 +11,7 @@ namespace Test2113110015
         {
             InitializeComponent();
 
-            MainPage = new Page1();
+            MainPage = new Assignment1311();
         }
 
         protected override void OnStart()
