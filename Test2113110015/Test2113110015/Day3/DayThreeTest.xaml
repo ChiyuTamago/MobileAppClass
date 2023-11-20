@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Test2113110015.Day3.DayThreeTest"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="20" BackgroundColor="Azure">
+                <Label
+                    BackgroundColor="#66FF2B"
+                    HorizontalTextAlignment="Center"
+                    Text="GLHF" />
+                <Entry Keyboard="Url" Placeholder="Nickname" />
+                <Frame
+                    Padding="0"
+                    BackgroundColor="Bisque"
+                    CornerRadius="100">
+                    <Button BackgroundColor="Bisque" Text="Send" />
+                </Frame>
+                <Button Text="Send" />
+                <SearchBar Placeholder="Search..." />
+                <ProgressBar Progress="0.69" ProgressColor="RoyalBlue" />
+                <ActivityIndicator IsRunning="True" Color="Black" />
+                <BoxView HeightRequest="20" Color="#A02222" />
+                <Label
+                    BackgroundColor="#66FF2B"
+                    HorizontalTextAlignment="Center"
+                    Text="GLHF" />
+                <Frame
+                    Padding="0"
+                    CornerRadius="900"
+                    HasShadow="True">
+                    <BoxView HeightRequest="20" Color="#A02222" />
+                </Frame>
+                <Frame>
+                    <ScrollView Orientation="Horizontal">
+                        <StackLayout Orientation="Horizontal">
+                            <BoxView
+                                HeightRequest="20"
+                                WidthRequest="100"
+                                Color="#A02222" />
+                            <BoxView
+                                HeightRequest="20"
+                                WidthRequest="100"
+                                Color="#2227A0" />
+                            <BoxView
+                                HeightRequest="20"
+                                WidthRequest="100"
+                                Color="#22A037" />
+                            <BoxView
+                                HeightRequest="20"
+                                WidthRequest="100"
+                                Color="#2227A0" />
+                        </StackLayout>
+                    </ScrollView>
+                </Frame>
+                <Editor HeightRequest="80" />
+                <DatePicker Format="dd-mm-yyyy" />
+                <TimePicker BackgroundColor="AliceBlue" />
+                <Slider
+                    x:Name="sauceNaoSlider"
+                    Maximum="100"
+                    MaximumTrackColor="Blue"
+                    Minimum="0"
+                    MinimumTrackColor="Red" />
+                <Label Text="Change: " />
+                <Label x:Name="Mao" Text="" />
+                <Stepper
+                    x:Name="Stepper"
+                    Increment="1"
+                    Maximum="10"
+                    Minimum="0"
+                    Value="0" />
+                <Label Text="Change: " />
+                <Label x:Name="Kay" Text="" />
+                <Image Source="bookcolor" />
+                <Picker x:Name="genderPicker" Title="Choose gender">
+                    <Picker.Items>
+                        <x:String>
+                            Male
+                        </x:String>
+                        <x:String>
+                            Female
+                        </x:String>
+                    </Picker.Items>
+                </Picker>
+                <Label Text="Change: " />
+                <Label x:Name="picker" Text="" />
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
