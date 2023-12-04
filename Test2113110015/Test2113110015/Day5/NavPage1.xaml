@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Test2113110015.Day5.NavPage1"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Page 1">
+    <ContentPage.Content>
+        <StackLayout Padding="30" BackgroundColor="#EFE8C6">
+            <Button
+                x:Name="OpenP2"
+                BackgroundColor="Aqua"
+                Text="Page Nav2" />
+            <BoxView HeightRequest="100" />
+            <Button
+                x:Name="OpenP3"
+                BackgroundColor="Coral"
+                Text="Page Nav3" />
+            <Button
+                x:Name="OpenTab"
+                BackgroundColor="Coral"
+                Text="Page Tab" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

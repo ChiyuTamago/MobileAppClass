@@ -2,10 +2,15 @@
 <ContentPage
     x:Class="Test2113110015.Day2.Assignment1311"
     xmlns="http://xamarin.com/schemas/2014/forms"
-    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="HWDay2">
     <ContentPage.Content>
         <StackLayout BackgroundColor="pink">
-            <StackLayout VerticalOptions="CenterAndExpand" Margin="20,0,20,0" Padding="20,0,20,0" BackgroundColor="#96C3A3">
+            <StackLayout
+                Margin="20,0,20,0"
+                Padding="20,0,20,0"
+                BackgroundColor="#96C3A3"
+                VerticalOptions="CenterAndExpand">
                 <Image Source="bookcolor" />
                 <Label
                     x:Name="loginNameResult"
@@ -15,16 +20,15 @@
                 <Label Padding="15" />
                 <Entry
                     x:Name="firstName"
-                    Placeholder="Firstname"
-                    PlaceholderColor="Gray"
                     BackgroundColor="White"
-                    />
+                    Placeholder="Firstname"
+                    PlaceholderColor="Gray" />
                 <Label Padding="2" />
                 <Entry
                     x:Name="lastName"
+                    BackgroundColor="White"
                     Placeholder="Lastname"
-                    PlaceholderColor="Gray"
-                    BackgroundColor="White"/>
+                    PlaceholderColor="Gray" />
                 <Label Padding="15" />
                 <Button
                     x:Name="sendButton"

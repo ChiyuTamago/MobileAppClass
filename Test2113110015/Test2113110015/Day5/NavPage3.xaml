@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Test2113110015.Day5.NavPage3"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Page 3">
+    <ContentPage.Content>
+        <StackLayout Padding="30" BackgroundColor="#C0E7BF">
+            <Button
+                x:Name="close"
+                BackgroundColor="#E900FF"
+                Text="Close" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Test2113110015.Day5.TestDay5"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button
+                HorizontalOptions="Start"
+                Text="Start"
+                VerticalOptions="StartAndExpand"
+                WidthRequest="150" />
+            <Button
+                HorizontalOptions="Center"
+                Text="Center"
+                VerticalOptions="CenterAndExpand"
+                WidthRequest="150" />
+            <Button
+                HorizontalOptions="End"
+                Text="End"
+                VerticalOptions="EndAndExpand"
+                WidthRequest="150" />
+            <Button
+                HorizontalOptions="Fill"
+                Text="End"
+                VerticalOptions="FillAndExpand"
+                WidthRequest="150" />
+            <Grid BackgroundColor="LightGreen">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <BoxView
+                    Grid.Row="1"
+                    Grid.RowSpan="2"
+                    Grid.Column="2"
+                    Color="Red" />
+                <BoxView
+                    Grid.Row="1"
+                    Grid.Column="2"
+                    Color="Blue" />
+            </Grid>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

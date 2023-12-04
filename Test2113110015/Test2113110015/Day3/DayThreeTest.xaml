@@ -2,7 +2,8 @@
 <ContentPage
     x:Class="Test2113110015.Day3.DayThreeTest"
     xmlns="http://xamarin.com/schemas/2014/forms"
-    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Day3Test">
     <ContentPage.Content>
         <ScrollView>
             <StackLayout Padding="20" BackgroundColor="Azure">

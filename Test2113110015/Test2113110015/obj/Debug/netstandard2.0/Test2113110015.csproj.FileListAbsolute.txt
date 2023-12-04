@@ -18,3 +18,10 @@ C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj
 C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Day2\EventP2.xaml.g.cs
 C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Day2\Assignment1311.xaml.g.cs
 C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Day3\DayThreeTest.xaml.g.cs
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Day5\NavPage1.xaml.g.cs
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Day5\NavPage2.xaml.g.cs
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Day5\NavPage3.xaml.g.cs
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Day5\TestDay5.xaml.g.cs
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Day5\TabPage1.xaml.g.cs
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Day5\TabPage2.xaml.g.cs
+C:\Users\classroom\source\repos\Test2113110015\Test2113110015\Test2113110015\obj\Debug\netstandard2.0\Day5\TabPage3.xaml.g.cs
